@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome Scene.unity
+    guid: 9288cb02c2f2dcd418f74e35de879f99
+  - enabled: 1
+    path: Assets/Scenes/Main Scene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/barMagnet.unity
+    guid: fea7ea6a4357e97468588a9550b08b32
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/barMagnetMCQ.unity
+    guid: a59525c86a0c5f84d877494ba6e32c6b
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/DipoleMoment.unity
+    guid: 1869e24884f2e3249ad3bc9b3477ee23
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/DipoleMomentMCQ.unity
+    guid: ae69a776da248454fae15b0037d390ca
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/GaussLaw.unity
+    guid: a9f226837a240f3499b1955bca541be8
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/GaussLawMCQ.unity
+    guid: 04f420bf5e7009145a94ba9bc856b186
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/MagneticProp.unity
+    guid: 7e13ac69ffe47784f967adf7645fd131
+  - enabled: 1
+    path: Assets/Scenes/Magnetism/MagneticPropMCQ.unity
+    guid: 5822a3a6b7d17d8479907a6ae10bd270
+  - enabled: 1
+    path: Assets/Sidharth/Scenes/EMI_1.unity
+    guid: 53bbe65f20ea3b2408b138a58072e87d
+  - enabled: 1
+    path: Assets/Sidharth/Scenes/EMI_2.unity
+    guid: e0bd7f9ad684c06498eb23aafea0cc61
+  - enabled: 1
+    path: Assets/Sidharth/Scenes/EMI_3.unity
+    guid: f8e0dd5d52bf18142a3a97f9b2b0ee2f
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d1b9c2e79c39b82488252aebc2b164dc,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: e9e1504f9e9c004498abc1a51eb60bf2,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b53b89ca9241447b0a56ff61fa931615,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+      type: 2}
